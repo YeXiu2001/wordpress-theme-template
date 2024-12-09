@@ -1,1 +1,1 @@
-# wordpress-theme-template
+# core files of your own wordpress theme
